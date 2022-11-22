@@ -1,6 +1,6 @@
 # Brain-Wide Association Study
 
-This repository contains scripts to perform Brain-Wide Association Study (BWAS) to find the association between brain imaging-derived phenotypes and with idiopathic pulmonary fibrosis genetic risk, as descibed in this paper: [A. R. Mohammadi-Nejad, R. J. Allen, L. Kraven, O. C. Leavy, R. G. Jenkins, D. Auer, L. V. Wain, S. N. Sotiropoulos, “Mapping brain endophenotypes associated with idiopathic pulmonary fibrosis genetic predisposition”, eBioMedicine, 2022][paper-eBioMed-link].
+This repository contains scripts to perform Brain-Wide Association Study (BWAS) to find the association between brain imaging-derived phenotypes and idiopathic pulmonary fibrosis genetic risk, as described in this paper: [A. R. Mohammadi-Nejad, R. J. Allen, L. Kraven, O. C. Leavy, R. G. Jenkins, D. Auer, L. V. Wain, S. N. Sotiropoulos, “Mapping brain endophenotypes associated with idiopathic pulmonary fibrosis genetic predisposition”, eBioMedicine, 2022][paper-eBioMed-link].
 
 ## Code Overview
 
