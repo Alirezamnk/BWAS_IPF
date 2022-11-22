@@ -4,7 +4,7 @@ This repository contains scripts to perform Brain-Wide Association Study (BWAS) 
 
 ## Code Overview
 
-Figures in our paper can be regenerated using the codes that have been assigned for each figure (Figures 2, 3, 4, and 5).
+Figures in our paper can be regenerated using the codesand the data that have been provided for each figure (Figures 2, 3, 4, and 5) in the following sections.
 
 ### Figure 2. Manhattan plot of the BWAS outcomes of 17 known IPF variants using UK Biobank imaging cohort (S=32,431)
 A jupyter notebook has been provided to generate Figure 2 (`Figure_2.ipynb`). Inside the data folder, there are 17 files and each of them is assigned to each IPF genetic variant (`IPF_XX.txt`). The list of all the IPF genetic variants is available [here][IPF-variant-list].
