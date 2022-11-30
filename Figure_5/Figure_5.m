@@ -6,20 +6,13 @@ close all
 clear
 clc
 
-addpath('/gpfs01/home/mszam12/main/BBActPred/extras' , ...
-                '/gpfs01/home/mszam12/main/BBActPred/extras/CIFTIMatlabReaderWriter' , ...
-                '/gpfs01/home/mszam12/main/BBActPred/extras/Nifti_Util', ...
-                '/gpfs01/share/ukbiobank/mszam/ActPred/Activation_masks/ukbb_data_mining');
-
 % ------------------------------------------------------------------------------------------------------------------------
 % TO-BE-EDITED: Replace the below with your own
 % ------------------------------------------------------------------------------------------------------------------------
-In_mat_files   = '/gpfs01/home/mszam12/main/BRC_UKBB_OUT/outputs/All';
-datadir          = '/gpfs01/share/ukbiobank/mszam/ActPred/Activation_masks/ukbb_data_mining/outputs/Genetic'; 
-plink_path    = '/gpfs01/share/ukbiobank/mszam/Genetics/plink';
-out_dir          = '/gpfs01/share/ukbiobank/mszam/Genetics/outputs/1248/mediation_anal';
-% ------------------------------------------------------------------------------------------------------------------------
-addpath(genpath('/gpfs01/home/mszam12/main/BBActPred/libs'));
+In_mat_files   = 'Specify appropriate path';
+datadir          = 'Specify appropriate path'; 
+plink_path    = 'Specify appropriate path';
+out_dir          = 'Specify appropriate path';
 % ------------------------------------------------------------------------------------------------------------------------
 
 % Load the original data
