@@ -31,8 +31,8 @@ and
 
 ### Figure 5. Secondary analysis.
 
-A Matlab code (`Figure_5.m`) has been provided to discuss the procedure we used to generate the mediation analysis results. 
-By running this code, we can estimate the weights of each path (paths a, b, axb, c, and c') and put them in a path diagram like this:
+A Matlab code (`Figure_5.m`) has been provided to discuss the procedure we used to generate the mediation analysis results. To do the mediation analysis, we used [M3 Toolbox][M3-Toolbox-GitHub].
+By running this code, we estimated the weights of each path (paths a, b, axb, c, and c') and put them in a path diagram like this:
 
 ![Figure_5_orig](https://github.com/Alirezamnk/BWAS_IPF/blob/main/global/Figure_5.png)
 
@@ -45,3 +45,4 @@ By running this code, we can estimate the weights of each path (paths a, b, axb,
 [paper-eBioMed-link]: https://www.sciencedirect.com/science/article/pii/S2352396422005382
 [IPF-variant-list]: https://github.com/Alirezamnk/BWAS_IPF/blob/main/global/IPF_variants.png
 [IDP-list]: https://github.com/Alirezamnk/BWAS_IPF/blob/main/global/BWAS_IDP_names.txt
+[M3-Toolbox-GitHub]: https://github.com/canlab/MediationToolbox
