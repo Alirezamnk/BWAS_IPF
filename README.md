@@ -43,4 +43,4 @@ By running this code, we can estimate the weights of each path (paths a, b, axb,
 
 [paper-eBioMed-link]: https://www.sciencedirect.com/science/article/pii/S2352396422005382
 [IPF-variant-list]: https://github.com/Alirezamnk/BWAS_IPF/blob/main/global/IPF_variants.png
-[IDP-list]: https://www.sciencedirect.com/science/article/pii/S2352396422005382
+[IDP-list]: https://github.com/Alirezamnk/BWAS_IPF/blob/main/global/BWAS_IDP_names.txt
